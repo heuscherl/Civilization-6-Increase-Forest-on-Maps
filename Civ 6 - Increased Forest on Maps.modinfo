@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="17462E0F-1EE1-4819-AAAA-052B5851B02A" version="1">
+  <Properties>
+    <Name>Civilization 6: Increase Forest on Maps</Name>
+    <Description>This mod increases the number of tiles with forests and creates slightly larger bands of forests. </Description>
+    <Teaser>Maps generate with more forests!</Teaser>
+    <Authors>Lindsiria</Authors>
+  </Properties>
+  <InGameActions>
+    <ImportFiles id="Features">
+      <File>FeatureGenerator.lua</File>
+    </ImportFiles>
+  </InGameActions>
+  <Files>
+    <File>FeatureGenerator.lua</File>
+  </Files>
+</Mod>
